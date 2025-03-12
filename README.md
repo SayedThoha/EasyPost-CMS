@@ -88,5 +88,5 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 ## Contact Information
 For any questions or feedback, feel free to reach out:
-- GitHub: [SayedThoha]()
+- GitHub: [SayedThoha](https://github.com/SayedThoha)
 - Email: devsaytho@gmail.com
