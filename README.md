@@ -38,7 +38,7 @@ This EasyPublish is a Content Management System (CMS) that allows users to creat
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/SayedThoha/EasyPost-CMS.git
 2. Navigate to the project directory:
     cd Easypublish
 3. Install the backend dependencies:
