@@ -1,7 +1,7 @@
-# EasyPublish
+# EasyPost
 
 ## Overview
-This EasyPublish is a Content Management System (CMS) that allows users to create, read, update, and delete blog articles. Users can view blogs without logging in, but they must register and log in to create their own blogs. The project includes user authentication, email verification with OTP, and a clean user interface built with Angular 19 and Nest.js.
+This EasyPost is a Content Management System (CMS) that allows users to create, read, update, and delete blog articles. Users can view blogs without logging in, but they must register and log in to create their own blogs. The project includes user authentication, email verification with OTP, and a clean user interface built with Angular 19 and Nest.js.
 
 ## Table of Contents
 - [Features](#features)
