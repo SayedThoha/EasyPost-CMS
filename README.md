@@ -40,21 +40,21 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/SayedThoha/EasyPost-CMS.git
 2. Navigate to the project directory:
-    cd Easypublish
+    cd EasyPost-CMS
 3. Install the backend dependencies:
-   cd backend
+   cd server
    npm install
 4. Set up the environment variables in a `.env` file based on the `.env.example` provided.
 5. Install the frontend dependencies:
-   cd ../frontend
+   cd ../client
    npm install
 
 ## Usage
 1. Start the backend server:
-   cd backend
+   cd server
    npm run start
 2. Start the frontend application:
-   cd frontend
+   cd client
    ng serve
 3. Open your browser and visit `http://localhost:4200` to access the application.
 
