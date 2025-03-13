@@ -265,7 +265,10 @@ let UserService = class UserService {
         }));
     }
     async AllBlogs() {
-        const blogs = await this.blogModel.find().populate('userId').lean();
+        const blogs = await this.blogModel
+            .find()
+            .populate('userId')
+            .lean();
         return blogs.map((blog) => ({
             userId: {
                 _id: blog.userId._id,
