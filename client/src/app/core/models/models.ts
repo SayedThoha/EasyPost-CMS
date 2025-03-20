@@ -24,7 +24,8 @@ export interface loginHttpResponseModel{
 export interface verifyOtp{
     newEmail?:string,
     email:string,
-    otp:number
+    otp:number,
+    isForgotPassword?:boolean,
 }
 
 export interface blogData{
